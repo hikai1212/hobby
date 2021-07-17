@@ -1,0 +1,10 @@
+header ul{
+    list-style: none;
+   
+}
+header{
+    display: flex;
+}
+.hero{
+    background-image: url("images/hero.jpg");
+}
